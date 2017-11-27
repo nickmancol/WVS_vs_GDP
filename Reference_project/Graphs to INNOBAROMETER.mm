@@ -26,12 +26,11 @@
       <font size="1">innovation studies</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1511520653468" ID="ID_1543153848" MODIFIED="1511520655815" POSITION="left" TEXT="CHIC">
-<node CREATED="1511520658717" ID="ID_1995761494" MODIFIED="1511521860990">
+<node CREATED="1511520658717" ID="ID_1995761494" MODIFIED="1511735842626">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -41,16 +40,19 @@
       C
     </p>
     <p>
-      <font size="1">The choice of the variables to include or to omit in </font>
+      <font size="1">process of innovation is a complex one and that the </font>
     </p>
     <p>
-      <font size="1">the analysis is a crucial one, otherwise a perceived </font>
+      <font size="1">aspects mentioned above are necessarily interrelated, </font>
     </p>
     <p>
-      <font size="1">sloppiness in this step of the analysis would cast doubts of </font>
+      <font size="1">scholars have been trying to answer these exemplary </font>
     </p>
     <p>
-      <font size="1">scientific malpractice such as the p-hacking behaviour.</font>
+      <font size="1">questions with standard regressions techniques on a small, </font>
+    </p>
+    <p>
+      <font size="1">arbitrarily chosen subset of the variables at disposal</font>
     </p>
   </body>
 </html>
@@ -81,8 +83,7 @@
       <font size="1">simplifying assumptions on existingrelationships</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1511520686874" ID="ID_1788916625" MODIFIED="1511520690205" TEXT="I">
 <node CREATED="1511521599898" ID="ID_53583852" MODIFIED="1511521606454" TEXT="Conceptual Design">
@@ -105,8 +106,7 @@
       <font size="1">-&gt; conditional independence can be read in the graph</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1511521607695" ID="ID_543243167" MODIFIED="1511521620101" TEXT="Research Design">
@@ -132,8 +132,7 @@
       <font size="1">firms in the manufacturing sector.</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1511521955169" ID="ID_1440300162" MODIFIED="1511522072754">
 <richcontent TYPE="NODE"><html>
@@ -160,8 +159,7 @@
       <font size="1">of the dependency structure.</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1511521989062" ID="ID_1336813293" MODIFIED="1511522151098">
 <richcontent TYPE="NODE"><html>
@@ -194,12 +192,11 @@
       <font size="1">reduction of the sample size from 5234 to 1531</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1511520690541" ID="ID_573831985" MODIFIED="1511522415719">
+<node CREATED="1511520690541" ID="ID_573831985" MODIFIED="1511736949624">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -209,19 +206,19 @@
       C
     </p>
     <p>
-      <font size="1">high-dimensional graphical models, </font>
+      <font size="1">- Innobarometer d3 question doesn't measure the age of a firm </font>
     </p>
     <p>
-      <font size="1">and specifically simple minimum BIC </font>
+      <font size="1">- Markets of knowledge are underdeveloped, this could explain </font>
     </p>
     <p>
-      <font size="1">forests, can serve as a data mining </font>
+      <font size="1">why the q11_d does not&#160;&#160;correlate with the innovation process </font>
     </p>
     <p>
-      <font size="1">tool and guide the researcher towards </font>
+      <font size="1">- Mapped network of relationships on process, product, </font>
     </p>
     <p>
-      <font size="1">a sound empirical design</font>
+      <font size="1">&#160;service, organizational, patent, design application innovations</font>
     </p>
   </body>
 </html>
